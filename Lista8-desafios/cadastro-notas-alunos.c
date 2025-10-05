@@ -171,10 +171,10 @@ int main(void){
 				printf("Opcao invalida tente novamente");
 				break;
 		}		
-			// Espera o usuário apertar uma tecla antes de limpar a tela
+
 		printf("\n\nPressione qualquer tecla para continuar...");
-		getch();            // Espera uma tecla
-		system("cls");      // Agora limpa a tela
+		getch();            
+		system("cls");      
 		
 	}
 	printf("Fim do programa :)");

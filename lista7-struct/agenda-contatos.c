@@ -176,30 +176,3 @@ int main(void){
 	printf("Programa encerrado :)");
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

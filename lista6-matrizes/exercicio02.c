@@ -14,14 +14,14 @@ int main(void){
 	int vetorB[7];
 	int vetorC[7][2];
 		
-	printf("Digite os valores da matri A: ");
+	printf("Digite os valores da matriz A: ");
 	printf("\n");
 	for(int i =0; i < 7; i++){
 		printf("\n%dº valor: ", i + 1);
 		scanf("%d",&vetorA[i]);
 	}
 	printf("\n");
-	printf("Digite os valores da matri B: ");
+	printf("Digite os valores da matriz B: ");
 	printf("\n");
 	for(int i =0; i < 7; i++){
 		printf("\n%dº valor: ", i + 1);

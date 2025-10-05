@@ -13,7 +13,7 @@ int main(void){
 	int vetorB[5][3];
 	int vetorC[5][3];
 	
-	printf("Digite os valores da matri A: ");
+	printf("Digite os valores da matriz A: ");
 	printf("\n");
 	for(int i =0; i < 5; i++){
 		for(int j = 0;j < 3;j++){
@@ -22,7 +22,7 @@ int main(void){
 		}
 	}
 	
-	printf("Digite os valores da matri B: ");
+	printf("Digite os valores da matriz B: ");
 	printf("\n");
 	for(int i =0; i < 5; i++){
 		for(int j = 0;j < 3;j++){
